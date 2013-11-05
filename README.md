@@ -15,6 +15,7 @@ If you just need the first or second part you can comment out in the script the 
 HOWTO
 -----
 
+- (one-time) configure the script editing it and filling in the "### Config ###' section
 - chdir to your sencha app root
 - execute the script
 
