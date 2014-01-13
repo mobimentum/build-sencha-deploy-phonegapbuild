@@ -24,3 +24,8 @@ Dependancies
 
 - JSON.sh from https://github.com/dominictarr/JSON.sh
 - XMLLint from http://xmlsoft.org/xmllint.html (or libxml2-utils on Debian-based distros)
+
+License
+-------
+
+This script is licensed under MIT Expat, i.e. you can do anything including commercial purposes, just don't blame it on me if anything goes wrong! :)
